@@ -15,111 +15,111 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
 I'm a **DevOps Engineer and Developer at BT Plc**, based in Hyderabad, India. I bridge the gap between software engineering and operations — building reliable pipelines, scalable cloud infrastructure, and intelligent ML-powered applications.
 
 | | |
 |:--|:--|
-| 🏢 **Currently at** | BT Plc — DevOps & Software Development |
-| 🔭 **Working on** | Enhancing ML models & innovative software solutions |
-| 🌱 **Learning** | Cloud computing & scalable distributed systems |
-| 👯 **Open to collaborate** | AI, data analysis, and full-stack development projects |
-| 💬 **Ask me about** | Python, React, DevOps pipelines, and ML projects |
-| ⚡ **Fun fact** | I love cracking algorithmic challenges on LeetCode and exploring new languages |
-| 😄 **Pronouns** | He / Him |
+| **Currently at** | BT Plc — DevOps & Software Development |
+| **Working on** | Enhancing ML models & innovative software solutions |
+| **Learning** | Cloud computing & scalable distributed systems |
+| **Open to collaborate** | AI, data analysis, and full-stack development projects |
+| **Ask me about** | Python, React, DevOps pipelines, and ML projects |
+| **Fun fact** | I love cracking algorithmic challenges on LeetCode and exploring new languages |
+| **Pronouns** | He / Him |
 
 <br/>
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 | Domain | Skills |
 |:--|:--|
-| ☁️ **DevOps & Cloud** | AWS · CI/CD Pipelines · Containerization · Infrastructure Automation |
-| 🖥️ **Full-Stack Development** | Python · TypeScript · React Native · Node.js · Django · Flask |
-| 🤖 **Machine Learning** | TensorFlow · PyTorch · scikit-learn · OpenCV · Data Science toolchains |
-| 🌐 **Polyglot Engineering** | C · C++ · C# · Java · Go · Kotlin · Swift · Dart · Solidity |
-| 🗄️ **Data & Databases** | MongoDB · SQLite · Firebase · Apache Hadoop · Big-data workflows |
-| 🧩 **Problem Solving** | Active on competitive platforms · Strong algorithmic foundations |
+| **DevOps & Cloud** | AWS · CI/CD Pipelines · Containerization · Infrastructure Automation |
+| **Full-Stack Development** | Python · TypeScript · React Native · Node.js · Django · Flask |
+| **Machine Learning** | TensorFlow · PyTorch · scikit-learn · OpenCV · Data Science toolchains |
+| **Polyglot Engineering** | C · C++ · C# · Java · Go · Kotlin · Swift · Dart · Solidity |
+| **Data & Databases** | MongoDB · SQLite · Firebase · Apache Hadoop · Big-data workflows |
+| **Problem Solving** | Active on competitive platforms · Strong algorithmic foundations |
 
 <br/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>🖊️ Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-21262d?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-21262d?style=flat-square&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-21262d?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-21262d?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-21262d?style=flat-square&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-21262d?style=flat-square&logo=solidity&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-21262d?style=flat-square&logo=latex&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🏗️ Frameworks & Libraries</b></summary>
+<summary><b>Frameworks & Libraries</b></summary>
 <br/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-21262d?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-21262d?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-21262d?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-21262d?style=flat-square&logo=Flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-21262d?style=flat-square&logo=dotnet&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=flat-square&logo=opencv&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-21262d?style=flat-square&logo=apachehadoop&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 Machine Learning & Data Science</b></summary>
+<summary><b>Machine Learning & Data Science</b></summary>
 <br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-21262d?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-21262d?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-21262d?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-21262d?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-21262d?style=flat-square&logo=python&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-21262d?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-21262d?style=flat-square&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-21262d?style=flat-square&logo=oracle&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-21262d?style=flat-square&logo=cisco&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-21262d?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
 
 </details>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I'm a **DevOps Engineer and Developer at BT Plc**, based in Hyderabad, India. I 
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -156,7 +156,7 @@ I'm a **DevOps Engineer and Developer at BT Plc**, based in Hyderabad, India. I 
 
 <br/>
 
-## 🔝 Top Contributed Repositories
+## Top Contributed Repositories
 
 <div align="center">
 
@@ -166,7 +166,7 @@ I'm a **DevOps Engineer and Developer at BT Plc**, based in Hyderabad, India. I 
 
 <br/>
 
-### ✍️ Dev Quote of the Day
+### Dev Quote of the Day
 
 <div align="center">
 
