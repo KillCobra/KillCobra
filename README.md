@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Pranjal%20Pratosh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Full-Stack%20%C2%B7%20ML&descAlignY=58&descSize=22&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Pranjal%20Pratosh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Full-Stack%20%C2%B7%20ML&descAlignY=58&descSize=22&animation=fadeIn&fontFamily=Raleway" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+BT+Plc;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+scalable+cloud+solutions;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+BT+Plc;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+scalable+cloud+solutions;Open+to+exciting+opportunities)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -116,53 +116,6 @@ I'm a **DevOps Engineer and Developer at BT Plc**, based in Hyderabad, India. I 
 ![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
 
 </details>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KillCobra&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillCobra&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-![GitHub contribution streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=KillCobra&theme=github-dark-blue&hide_border=true)
-
-<br/>
-
-![GitHub activity contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=KillCobra&theme=github-compact&hide_border=true&area=true)
-
-</div>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KillCobra&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
-<br/>
-
-## Top Contributed Repositories
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=KillCobra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 <br/>
 
